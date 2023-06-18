@@ -1,0 +1,15 @@
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.AssemblyReference.cache
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfoInputs.cache
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfo.cs
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.CoreCompileInputs.cache
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.deps.json
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.runtimeconfig.json
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.dll
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.pdb
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.dll
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/refint/Software2KnowledgeCheck1.dll
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.pdb
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.genruntimeconfig.cache
+/Users/class2025master/Projects/Software-2-Knowledge-Check-1/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/ref/Software2KnowledgeCheck1.dll
